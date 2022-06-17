@@ -1,0 +1,7 @@
+.header-class {
+    color: orange;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
